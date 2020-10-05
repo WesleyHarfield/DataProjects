@@ -5,5 +5,4 @@ These projects have been completed via numerous online courses during 2020. Any 
 
 Sources: 
 Dataquest - https://www.dataquest.io/
-
 Datacamp - https://www.datacamp.com/
